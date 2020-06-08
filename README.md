@@ -1,4 +1,4 @@
-BEBUI0000_Cookbook_Moodle
+Moodle Cookbook - Obsolete
 =========================
 
-A moodle clean installation
+This has been replaced with the BuildEmpire Totara Cookbook available at: [BuildEmpire/BEBUI0000_Cookbook_Totara](https://github.com/BuildEmpire/BEBUI0000_Cookbook_Totara)
